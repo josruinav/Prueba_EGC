@@ -21,7 +21,7 @@ public  class Prueba {
 	
 	//Conflicto master 
 	
-	//Conflicto conflcto1
+	//Conflicto cambiado para crear conflicto
 	
 	
 }
