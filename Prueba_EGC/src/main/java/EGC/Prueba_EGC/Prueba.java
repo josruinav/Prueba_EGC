@@ -19,9 +19,7 @@ public  class Prueba {
 	}
 	
 	
-	//MODIFICACION DEL CODIGO EN LA RAMA MASTER PARA CONFLICTO
-	
-	//Conflicto
+	//Conflicto master
 	
 	
 }
