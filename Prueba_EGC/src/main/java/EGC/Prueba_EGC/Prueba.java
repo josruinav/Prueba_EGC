@@ -21,5 +21,7 @@ public  class Prueba {
 	
 	//Conflicto master
 	
+	//Conflicto conflcto1
+	
 	
 }
